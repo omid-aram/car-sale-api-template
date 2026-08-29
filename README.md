@@ -22,12 +22,9 @@ appsettings.json
 
 Run the application and open Scalar.
 
-## Completed
+## Tasks
 
 - [x] Brand API
-
-## TODO
-
 - [ ] Car API
 - [ ] Customer API
 - [ ] Order API
